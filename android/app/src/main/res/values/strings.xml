@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">طابور</string>
+    <string name="tagline">احجز دورك.. وكمّل يومك</string>
+    <string name="welcome_greeting">أهلاً بك 👋</string>
+    <string name="home_question">عايز تخلص إيه النهارده؟</string>
+    <string name="search_hint">ابحث عن مكان أو خدمة...</string>
+    <string name="nearby_places">الأماكن القريبة منك</string>
+    <string name="book_your_turn">احجز دورك</string>
+    <string name="join_now">🎫 احجز دوري الآن</string>
+    <string name="book_appointment">📅 احجز موعد</string>
+    <string name="open_now">مفتوح</string>
+    <string name="closed_now">مغلق</string>
+    <string name="waiting_people">منتظر</string>
+    <string name="estimated_wait">الانتظار المتوقع</string>
+    <string name="people_ahead">أمامك</string>
+    <string name="people">أشخاص</string>
+    <string name="current_number">الرقم الحالي</string>
+    <string name="you_are_next">أنت التالي 🔔</string>
+    <string name="your_turn_now">دورك الآن 🎉</string>
+    <string name="share_token">مشاركة الدور</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_my_turn">دورك</string>
+    <string name="nav_my_bookings">حجوزاتي</string>
+    <string name="nav_favorites">المفضلة</string>
+    <string name="nav_profile">حسابي</string>
+    <string name="owner_nav_home">الرئيسية</string>
+    <string name="owner_nav_queues">الطوابير</string>
+    <string name="owner_nav_customers">العملاء</string>
+    <string name="owner_nav_stats">الإحصائيات</string>
+    <string name="owner_nav_settings">الإعدادات</string>
+    <string name="i_am_customer">أنا عميل</string>
+    <string name="i_am_owner">أنا صاحب مكان</string>
+    <string name="empty_no_turn">لسه ما حجزتش دور</string>
+    <string name="empty_find_place">ابحث عن مكان</string>
+    <string name="empty_no_bookings">مفيش حجوزات لحد دلوقتي</string>
+</resources>
